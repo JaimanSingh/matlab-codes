@@ -16,14 +16,6 @@ This repository, `matlab-codes`, houses a comprehensive set of MATLAB scripts pr
 
 The repository serves as a valuable resource for students and practitioners looking to explore and implement these mathematical and engineering concepts in MATLAB.
 
-## Features 🌟
-
-- **Diverse Numerical Methods:** Implements a wide range of numerical algorithms for solving equations, integration, and linear algebra problems.
-- **Optimization Algorithms:** Provides practical implementations of key optimization techniques.
-- **Signal Processing Basics:** Includes scripts for fundamental signal generation and manipulation.
-- **Organized by Domain:** Codes are clearly categorized into Numerical Analysis, Optimization Techniques, and Signals and Systems.
-- **Lab-wise and Method-wise Organization:** Within Numerical Analysis, codes are further segmented for easier learning and reference.
-
 ## Tech Stack 💻
 
 - **Language:** MATLAB
